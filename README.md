@@ -1,10 +1,9 @@
 # **Lista de Exercícios – Fundamentos do SQL**
 
----
 
-## 🛠️ **0. Estrutura Inicial: Criação de Tabelas e Inserção de Dados**
+### 🛠️ **0. Estrutura Inicial: Criação de Tabelas e Inserção de Dados**
 
-### 🧩 *Objetivo*: praticar os comandos `CREATE TABLE`, `INSERT INTO`
+> *Objetivo*: praticar os comandos `CREATE TABLE`, `INSERT INTO`
 
 1. **Crie a tabela `usuarios`** com os seguintes campos:
 
@@ -27,7 +26,7 @@
 
 ---
 
-## 🔎 **1. SELECT e WHERE**
+### 🔎 **1. SELECT e WHERE**
 
 > Treinar seleção de dados e filtragem
 
@@ -40,7 +39,7 @@
 
 ---
 
-## 🧪 **2. INSERT, UPDATE e DELETE**
+### 🧪 **2. INSERT, UPDATE e DELETE**
 
 > Manipular dados nas tabelas
 
@@ -51,7 +50,7 @@
 
 ---
 
-## 📊 **3. ORDER BY e LIMIT**
+### 📊 **3. ORDER BY e LIMIT**
 
 > Organizar e limitar resultados
 
@@ -61,7 +60,7 @@
 
 ---
 
-## 📈 **4. Funções de Agregação**
+### 📈 **4. Funções de Agregação**
 
 > Resumir informações
 
@@ -72,7 +71,7 @@
 
 ---
 
-## 🔄 **5. Operadores e Filtros**
+### 🔄 **5. Operadores e Filtros**
 
 > Praticar `BETWEEN`, `IN`, `LIKE`, `IS NULL`, `!=`
 
@@ -83,7 +82,7 @@
 
 ---
 
-## 🧠 **6. Desafios Extras (Intermediário)**
+### 🧠 **6. Desafios Extras (Intermediário)**
 
 > Comece a introduzir relacionamento entre tabelas
 
