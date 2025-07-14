@@ -3,7 +3,7 @@
 
 ### 🛠️ **0. Estrutura Inicial: Criação de Tabelas e Inserção de Dados**
 
-> *Objetivo*: praticar os comandos `CREATE TABLE`, `INSERT INTO`
+> praticar os comandos `CREATE TABLE`, `INSERT INTO`
 
 1. **Crie a tabela `usuarios`** com os seguintes campos:
 
