@@ -1,7 +1,7 @@
 # **Lista de Exercícios – Fundamentos do SQL**
 
 
-### 🛠️ **0. Estrutura Inicial: Criação de Tabelas e Inserção de Dados**
+### 🛠️ **0. Criação de Tabelas e Inserção de Dados**
 
 > praticar os comandos `CREATE TABLE`, `INSERT INTO`
 
