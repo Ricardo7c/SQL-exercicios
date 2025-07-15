@@ -1,1 +1,1 @@
-SELECT nome, idade
+SELECT nome, idade FROM usuarios
