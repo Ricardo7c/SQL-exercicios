@@ -1,0 +1,1 @@
+SELECT * FROM produtos ORDER BY estoque ASC LIMIT 2;

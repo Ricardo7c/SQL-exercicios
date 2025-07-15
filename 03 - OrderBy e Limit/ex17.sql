@@ -1,0 +1,1 @@
+SELECT * FROM usuarios ORDER BY nome;
