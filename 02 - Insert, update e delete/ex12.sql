@@ -1,0 +1,1 @@
+UPDATE produtos SET estoque = 120 WHERE nome = 'mouse'

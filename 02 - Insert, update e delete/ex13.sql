@@ -1,0 +1,1 @@
+UPDATE usuarios SET ativo = FALSE WHERE idade < 18
