@@ -1,0 +1,1 @@
+SELECT MAX(preco) AS 'Maior valor', MIN(preco) AS 'Menor valor' FROM produtos;

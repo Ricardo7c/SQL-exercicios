@@ -1,0 +1,1 @@
+SELECT COUNT(*) AS 'Número de cadastros' FROM usuarios;

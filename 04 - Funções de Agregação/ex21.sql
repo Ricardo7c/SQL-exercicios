@@ -1,0 +1,1 @@
+SELECT SUM(estoque) AS 'Total em estoque' FROM produtos
