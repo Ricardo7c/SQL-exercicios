@@ -87,11 +87,11 @@
 30. Delete (drop) completamente uma tablea. (Recomendo criar uma tabela de teste para usar o drop)
 
 
-### 🔐 **7. Chaves Primárias e Estrangeiras**
+### 🔐 **7. Chaves Estrangeiras**
 
 > Definir relacionamentos entre tabelas
 
-33. Crie uma nova tabela chamada `pedidos` com os campos:
+31. Crie uma nova tabela chamada `pedidos` com os campos:
 
 * `id`: INT, chave primária
 * `usuario_id`: INT
@@ -99,10 +99,10 @@
 * `quantidade`: INT
 * `data_pedido`: DATE
 
-34. Defina `usuario_id` como chave estrangeira que referencia `usuarios(id)`.
-35. Defina `produto_id` como chave estrangeira que referencia `produtos(id)`.
-36. Insira um pedido para o usuário "Ana" com 2 unidades do produto "Notebook".
-37. Tente inserir um pedido com `usuario_id` que **não existe**. O que acontece?
-38. Liste todos os pedidos, com os nomes do usuário e do produto (use `JOIN`).
+**OBs:**
+Defina `usuario_id` como chave estrangeira que referencia `usuarios(id)` e `produto_id` como chave estrangeira que referencia `produtos(id)`.
+
+32. Insira 2 pedidos para 2 usuário com quantidades diferentes um produto existente.
+33. Liste todos os pedidos, com os nomes do usuário e do produto (use `JOIN`).
 
 ---
