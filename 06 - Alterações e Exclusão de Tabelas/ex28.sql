@@ -1,0 +1,1 @@
+ALTER TABLE usuarios MODIFY COLUMN email VARCHAR(150);

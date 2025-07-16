@@ -76,28 +76,18 @@
 25. Encontre produtos com estoque **igual a 0** (sem estoque).
 
 
-### 🧱 **6. Alterações em Estrutura de Tabelas**
+### 🧱 **6. Alterações e Exclusão de Tabelas**
 
-> Praticar comandos `ALTER TABLE`
+> Praticar comandos `ALTER TABLE` e `DROP TABLE`
 
 26. Adicione uma nova coluna `telefone` (VARCHAR 20) à tabela `usuarios`.
 27. Renomeie a coluna `nome` da tabela `produtos` para `descricao`.
 28. Altere o tipo da coluna `email` na tabela `usuarios` para aceitar até 150 caracteres.
 29. Remova a coluna `telefone` da tabela `usuarios`.
+30. Crie uma nova tabela com uma coluna e em seguida a delete (drop) completamente.
 
----
 
-### ❌ **7. Exclusão de Tabelas**
-
-> Trabalhar com `DROP TABLE`
-
-30. Crie uma nova tabela chamada `temporaria`, com uma coluna `teste VARCHAR(50)`.
-31. Insira uma linha qualquer na tabela `temporaria`.
-32. Agora delete (drop) completamente a tabela `temporaria`.
-
----
-
-### 🔐 **8. Chaves Primárias e Estrangeiras**
+### 🔐 **7. Chaves Primárias e Estrangeiras**
 
 > Definir relacionamentos entre tabelas
 

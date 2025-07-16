@@ -1,0 +1,1 @@
+ALTER TABLE produtos RENAME COLUMN nome TO descricao;
