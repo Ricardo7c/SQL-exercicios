@@ -75,3 +75,44 @@
 24. Mostre usuários que **não** estão ativos.
 25. Encontre produtos com estoque **igual a 0** (sem estoque).
 
+
+### 🧱 **6. Alterações em Estrutura de Tabelas**
+
+> Praticar comandos `ALTER TABLE`
+
+26. Adicione uma nova coluna `telefone` (VARCHAR 20) à tabela `usuarios`.
+27. Renomeie a coluna `nome` da tabela `produtos` para `descricao`.
+28. Altere o tipo da coluna `email` na tabela `usuarios` para aceitar até 150 caracteres.
+29. Remova a coluna `telefone` da tabela `usuarios`.
+
+---
+
+### ❌ **7. Exclusão de Tabelas**
+
+> Trabalhar com `DROP TABLE`
+
+30. Crie uma nova tabela chamada `temporaria`, com uma coluna `teste VARCHAR(50)`.
+31. Insira uma linha qualquer na tabela `temporaria`.
+32. Agora delete (drop) completamente a tabela `temporaria`.
+
+---
+
+### 🔐 **8. Chaves Primárias e Estrangeiras**
+
+> Definir relacionamentos entre tabelas
+
+33. Crie uma nova tabela chamada `pedidos` com os campos:
+
+* `id`: INT, chave primária
+* `usuario_id`: INT
+* `produto_id`: INT
+* `quantidade`: INT
+* `data_pedido`: DATE
+
+34. Defina `usuario_id` como chave estrangeira que referencia `usuarios(id)`.
+35. Defina `produto_id` como chave estrangeira que referencia `produtos(id)`.
+36. Insira um pedido para o usuário "Ana" com 2 unidades do produto "Notebook".
+37. Tente inserir um pedido com `usuario_id` que **não existe**. O que acontece?
+38. Liste todos os pedidos, com os nomes do usuário e do produto (use `JOIN`).
+
+---
