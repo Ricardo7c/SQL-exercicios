@@ -1,0 +1,1 @@
+SELECT * FROM usuarios WHERE nome IN ('Carlos', 'Diana');
