@@ -84,7 +84,7 @@
 27. Renomeie a coluna `nome` da tabela `produtos` para `descricao`.
 28. Altere o tipo da coluna `email` na tabela `usuarios` para aceitar até 150 caracteres.
 29. Remova a coluna `telefone` da tabela `usuarios`.
-30. Crie uma nova tabela com uma coluna e em seguida a delete (drop) completamente.
+30. Delete (drop) completamente uma tablea. (Recomendo criar uma tabela de teste para usar o drop)
 
 
 ### 🔐 **7. Chaves Primárias e Estrangeiras**
