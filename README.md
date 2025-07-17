@@ -138,7 +138,3 @@ Defina `usuario_id` como chave estrangeira que referencia `usuarios(id)` e `prod
 39. Liste os nomes dos usuários que **nunca fizeram pedidos**.
 
 > Faça isso com subconsulta (sem usar JOIN).
-
-40. Liste os nomes dos produtos cujo **estoque é menor** que a **quantidade total pedida**.
-41. Mostre o nome do produto mais caro.
-42. Liste os usuários cuja **idade está acima da média geral** das idades.
