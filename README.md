@@ -104,6 +104,7 @@ Defina `usuario_id` como chave estrangeira que referencia `usuarios(id)` e `prod
 
 32. Insira 2 pedidos para 2 usuário com quantidades diferentes um produto existente.
 
+# Exercicios um pouco mais avançados
 
 ## ➕ **8. Consultas com JUNÇÕES (JOINs)**
 
@@ -127,8 +128,6 @@ Defina `usuario_id` como chave estrangeira que referencia `usuarios(id)` e `prod
 
 36. Liste o nome dos usuários que fizeram **mais de 1 pedido**.
 37. Mostre o nome dos usuários e o total que eles pediram (somando a quantidade de produtos).
-
-> Exemplo: "Carlos pediu 8 itens no total."
 
 
 ## 🔍 **9. Subconsultas (Subqueries)**
