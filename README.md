@@ -105,9 +105,6 @@ Defina `usuario_id` como chave estrangeira que referencia `usuarios(id)` e `prod
 32. Insira 2 pedidos para 2 usuário com quantidades diferentes um produto existente.
 
 
-Perfeito, Ricardo! Vamos completar seu **roadmap de SQL** com duas seções finais: uma focada em **junções (`JOIN`)** e outra em **subconsultas (`Subqueries`)**, que são essenciais para trabalhar com múltiplas tabelas e consultas mais avançadas.
-
-
 ## ➕ **8. Consultas com JUNÇÕES (JOINs)**
 
 > Aprender a combinar dados de diferentes tabelas
